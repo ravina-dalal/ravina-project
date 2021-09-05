@@ -1,0 +1,10 @@
+.stick{
+    position: sticky;
+    top: 10px;
+}
+.box{
+    padding: 10px;
+    background-color: lightgrey;
+    box-shadow: 5px 5px 10px grey;
+    
+}
